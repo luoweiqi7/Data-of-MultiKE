@@ -1,0 +1,6 @@
+xiaomi_huawei/entity_local_name_1.txt filter=lfs diff=lfs merge=lfs -text
+xiaomi_apple/entity_local_name_1.txt filter=lfs diff=lfs merge=lfs -text
+xiaomi_play_store/entity_local_name_1.txt filter=lfs diff=lfs merge=lfs -text
+xiaomi_play_store/entity_local_name_2.txt filter=lfs diff=lfs merge=lfs -text
+huawei_play_store/entity_local_name_2.txt filter=lfs diff=lfs merge=lfs -text
+apple_play_store/entity_local_name_2.txt filter=lfs diff=lfs merge=lfs -text

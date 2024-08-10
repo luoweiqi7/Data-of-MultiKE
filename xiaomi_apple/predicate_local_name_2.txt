@@ -1,0 +1,15 @@
+name	名称
+developer	开发者
+category	类别
+appId	appID
+pack	包名
+size	大小
+ageLimit	应用分级
+developerContact	联系开发者
+updateContent	更新内容
+updateTime	更新时间
+desc	编辑描述
+version	版本
+privacyPolicy	隐私政策
+shop	商店
+recommend	相关推荐
